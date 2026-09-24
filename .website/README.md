@@ -1,4 +1,7 @@
 ---
+genres:
+  - racing
+  - arcade
 post: https://fq.nz/blog/2018/08/30/my-js13k-games-entry-13kars.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
